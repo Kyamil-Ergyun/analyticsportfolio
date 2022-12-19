@@ -8,7 +8,7 @@
 
 ## 2. ANALYSIS INDEX
 
-0. **[TABLEAU PUBLIC PROJECT LINK](https://public.tableau.com/views/1_olist_kyamil_ergyun_portfolio_19_12_22/RFM?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link).**
+0. **[TABLEAU PUBLIC PROJECT LINK](https://public.tableau.com/shared/98BTDGD2J?:display_count=n&:origin=viz_share_link).**
 1. **BUSINESS CONTEXT.**
    1.1. Main personal objective [combining SQL + Tableau]
 
