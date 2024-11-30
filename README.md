@@ -8,9 +8,9 @@ in order to implement robust data strategy to always push for **data-driven deci
 
 ![Alt text](./.assets/image.png)
 
-### LinkedIn Profile: https://www.linkedin.com/in/kyamil-ergyun/
-### Tableau Collection: https://public.tableau.com/app/profile/avantvis/favorites
-### Personal Website: https://databiexpert.my.canva.site/
+#### >> LinkedIn Profile: https://www.linkedin.com/in/kyamil-ergyun/
+#### >> Tableau Collection: https://public.tableau.com/app/profile/avantvis/favorites
+#### >> Personal Website: https://databiexpert.my.canva.site/
 
 # SKILLS:
 
@@ -34,18 +34,18 @@ in order to implement robust data strategy to always push for **data-driven deci
 
 # MORE ABOUT ME:
 
-■ I am passionate about Business Intelligence, Datawarehousing and Data Analysis:
-- Big Data (**SQL, Python**).
-- Data Warehousing, Data Modelling and ELT.
-- the Data Analysis process.
-- and visualizations (**Tableau, Power BI**).
+- I am passionate about Business Intelligence, Datawarehousing and Data Analysis:
+    - Big Data (**SQL, Python**).
+    - Data Warehousing, Data Modelling and ELT.
+    - the Data Analysis process.
+    - and Data Visualizations (**Tableau, Power BI**).
 
-■ This has enabled me:
-- to give valuable business insights to different stakeholders.
-- leading many times to:
-    - delivering key ad hoc insights to managments.
-    - discover accurate data patterns.
-    - making data based predictions.
-    - spotting unusual data aspects.
+- This has enabled me:
+    - to give valuable business insights to different stakeholders.
+    - leading many times to:
+        - delivering key ad hoc insights to managments.
+        - discover accurate data patterns.
+        - making data based predictions.
+        - spotting unusual data aspects.
 
-■ In order to always push for **data-driven decision making**!
+- In order to always push for **data-driven decision making**!
