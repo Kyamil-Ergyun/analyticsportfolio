@@ -35,15 +35,17 @@ in order to implement robust data strategy to always push for **data-driven deci
 # MORE ABOUT ME:
 
 ■ I am passionate about Business Intelligence, Datawarehousing and Data Analysis:
-• Big Data (**SQL, Python**)
-• the Data Analysis process
-• and visualizations (**Tableau, Power BI**)
+- Big Data (**SQL, Python**).
+- Data Warehousing, Data Modelling and ELT.
+- the Data Analysis process.
+- and visualizations (**Tableau, Power BI**).
 
 ■ This has enabled me:
-• to give valuable business insights to different stakeholders.
-• leading many times to:
-* ➼ discover accurate data patterns
-* ➼ making data based predictions
-* ➼ spotting unusual data aspects, etc.
+- to give valuable business insights to different stakeholders.
+- leading many times to:
+    - delivering key ad hoc insights to managments.
+    - discover accurate data patterns.
+    - making data based predictions.
+    - spotting unusual data aspects.
 
 ■ In order to always push for **data-driven decision making**!
