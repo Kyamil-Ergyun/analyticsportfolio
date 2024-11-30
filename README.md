@@ -1,22 +1,33 @@
-# WELCOME TO MY DATA ANALYSIS PORTFOLIO
+# WELCOME TO MY DATA ANALYSIS PORTFOLIO:
 
-# FOR MORE INFORMATION CHECK MY
-## LinkedIn Profile
-https://www.linkedin.com/in/kyamil-ergyun/
+*My name is Kyamil and I am a Berlin (Germany) based Business Intelligence and Data Analyst.
+Already having worked for 4 years with data, I have gathered the necessary technical and soft skills
+in order to implement robust data strategy to always push for **data-driven decision making**!*
+
+### CHECK MY LINKEDIN AND WEBSITE FOR MORE INFORMATION:
+
+### LinkedIn Profile
+#### https://www.linkedin.com/in/kyamil-ergyun/
+
 ![alt text](image.png)
 
-## Personal Website
-Personal Website: https://databiexpert.my.canva.site/
+### Personal Website
+#### Personal Website: https://databiexpert.my.canva.site/
 
 # SKILLS:
-## TECHNICKAL SKILLS:
+
+### TECHNICKAL SKILLS:
+
 - PostgreSQL / MySQL and Datawarehousing (dimensional modelling).
 - Python (Pandas) and partly Airflow.
 - Advanced Excel.
-- Tableau and Power BI certified.
+- Data vizualization with:
+    - Tableau & Power BI certified.
+    - Excel 
 - Snowflake.
 
-## SOFT SKILLS
+### SOFT SKILLS
+
 - Stakeholder and expectation management.
 - Agile (Scrum) Business Intelligence and Data Products development.
 - Communication skills: closing the gap between tech and non-tech.
@@ -24,8 +35,6 @@ Personal Website: https://databiexpert.my.canva.site/
 
 
 # MORE ABOUT ME:
-My name is Kyamil and I am a Berlin (Germany) based Business Intelligence and Data Analyst.
-Already having lived and worked 6 years in Berlin made me to see that:
 
 ■ I am passionate about Business Intelligence, Datawarehousing and Data Analysis:
 • Big Data (**SQL, Python**)
