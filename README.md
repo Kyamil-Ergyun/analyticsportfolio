@@ -6,7 +6,7 @@ in order to implement robust data strategy to always push for **data-driven deci
 
 ### CHECK MY LINKEDIN, PERSONAL WEBSITE & TABLEAU PROFILE:
 
-![Alt text](./.assets/image.png)
+![Alt text](.graphics/image.png)
 
 #### >> LinkedIn Profile: https://www.linkedin.com/in/kyamil-ergyun/
 #### >> Tableau Collection: https://public.tableau.com/app/profile/avantvis/favorites
