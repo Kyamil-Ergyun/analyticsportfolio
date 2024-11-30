@@ -4,15 +4,13 @@
 Already having worked for 4 years with data, I have gathered the necessary technical and soft skills
 in order to implement robust data strategy to always push for **data-driven decision making**!*
 
-### CHECK MY LINKEDIN AND WEBSITE FOR MORE INFORMATION:
-
-### LinkedIn Profile
-#### https://www.linkedin.com/in/kyamil-ergyun/
+### CHECK MY LINKEDIN, PERSONAL WEBSITE & TABLEAU PROFILE:
 
 ![alt text](image.png)
 
-#### Tableau Public Profile - Data Viz Collection: https://www.linkedin.com/in/kyamil-ergyun/
-#### Personal Website: https://databiexpert.my.canva.site/
+### LinkedIn Profile: https://www.linkedin.com/in/kyamil-ergyun/
+### Tableau Public Profile - Data Viz Collection: https://public.tableau.com/app/profile/avantvis/favorites
+### Personal Website: https://databiexpert.my.canva.site/
 
 # SKILLS:
 
