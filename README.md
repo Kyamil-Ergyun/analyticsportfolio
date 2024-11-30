@@ -11,7 +11,7 @@ in order to implement robust data strategy to always push for **data-driven deci
 
 ![alt text](image.png)
 
-### Personal Website
+#### Tableau Public Profile - Data Viz Collection: https://www.linkedin.com/in/kyamil-ergyun/
 #### Personal Website: https://databiexpert.my.canva.site/
 
 # SKILLS:
