@@ -10,7 +10,7 @@ in order to implement robust data strategy to always push for **data-driven deci
 
 #### >> LinkedIn Profile: https://www.linkedin.com/in/kyamil-ergyun/
 #### >> Tableau Collection: https://public.tableau.com/app/profile/avantvis/favorites
-#### >> Personal Website: bit.ly/databiexpert
+#### >> Personal Website: [bit.ly/databiexpert](https://bit.ly/databiexpert)
 
 # SKILLS:
 
